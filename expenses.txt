@@ -1,1 +1,6 @@
-expenses
+Rent: 1000.00
+Gas: 200.00
+Food: 400.00
+Clothing: 150.00
+Car payment: 300.00
+Misc: 100.00
